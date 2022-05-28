@@ -1,7 +1,7 @@
 {
   "name": "_tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://www.udemy.com/course/tailwindcss-with-examples/",
   "main": "index.js",
   "scripts": {
     "build": "postcss tailwind.css -o dist/css/styles.css",
